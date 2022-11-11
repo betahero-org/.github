@@ -3,7 +3,7 @@
 
 Click the button below to donate:
 
-[![Donate to BetaHero](https://betahero.org/donate.svg)](https://betahero.org/donate)
+[![Donate to BetaHero](https://betahero.org/donate.svg)](https://betahero.org/donate =80x)
 
 Want to contribute? 
 
